@@ -45,3 +45,6 @@
 
 프로필 (포스트, 팔로우, 팔로잉 추가)
 ![image](https://github.com/user-attachments/assets/ac8c7b20-c431-453e-ab9f-256ca8453751)
+
+#### 현재 올라와 있는 버전은 리펙토링 후 버전
+- 리펙토링 전 버전은 zip파일로 별도로 올림
